@@ -37,7 +37,6 @@
     "next-env.d.ts",
     "**/*.ts",
     "**/*.tsx",
-    "src/components/SmallComponents/Register/styles.jsx"
   ],
   "exclude": [
     "node_modules"

@@ -20,11 +20,11 @@ const nextConfig = {
   swcMinify: true,
   images: {
     unoptimized: true,
-    domains: ['https://kryptopia.io/'],
+    domains: [''],
     remotePatterns: [
       {
         protocol: 'https',
-        hostname: 'https://kryptopia.io/',
+        hostname: '',
         port: '',
         pathname: '/metadata/image/**',
       },
